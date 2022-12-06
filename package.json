@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "parse-json-response": "~1.0.1",
-    "request": "~2.42.0",
+    "request": "~2.88.2",
     "rimraf": "~2.2.6",
     "tap": "^12.7.0",
     "which": "~1.0.5"
